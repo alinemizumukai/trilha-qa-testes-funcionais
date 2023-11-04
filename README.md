@@ -22,13 +22,9 @@ Por fim, os casos de testes foram criados no Jira com a extensão da ferramenta 
 ## Entregas
 
 Para documentação da conclusão do desafio deverão ser entregues em PDF:
-- Um plano de fluxo de trabalho e do ciclo de vida de um bug
+- Um plano de [fluxo de trabalho](documents/FluxoDeTrabalho.PNG) e do ciclo de vida de um bug 
 - Um documento contendo no mínimo 2 User Stories
 - Documentos de teste gerados no processo de estudo:
-    - Mind-map de pelo menos 1 User Story
+    - [Mind-map](documents/userStories/US1-SWAG-9_Mind-map.png) de pelo menos 1 User Story 
     - 2 casos de teste utilizando a técnica step-by-step com a configuração que preferir
     - 2 casos de teste utilizando BDD
-
-
-
-
